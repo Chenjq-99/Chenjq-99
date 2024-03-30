@@ -13,5 +13,5 @@
 - 🌏 现居: 吉林长春
 
 ### 仓库信息
-![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)   
+![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjq-99&layout=compact&theme=tokyonight)   
 
