@@ -5,8 +5,8 @@
 ### Personal profile
 - Name: Chen Jiaqi
 - Gender: Male
-- Age: 24
-- Current residence: Changchun, Jilin
+- Age: 25
+- Current residence: Guangzhou, Guangdong, China
 - Job: Autonomous driving decision making and motion planning
 
 ### Repo information
