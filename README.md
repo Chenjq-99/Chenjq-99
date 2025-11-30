@@ -9,6 +9,3 @@
 - Current residence: Guangzhou, Guangdong, China
 - Job: Autonomous driving decision making and motion planning
 
-### Repo information
-![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjq-99&layout=compact&theme=tokyonight)   
-
